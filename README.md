@@ -1,5 +1,5 @@
-# ![image](https://user-images.githubusercontent.com/91573783/149607692-2d8c9c19-6055-4838-a37c-78d8759f0159.png)
- Shopify Data Science 2022 Internship Challenge
+![image](https://user-images.githubusercontent.com/91573783/149607692-2d8c9c19-6055-4838-a37c-78d8759f0159.png)
+# Shopify Data Science 2022 Internship Challenge
 
 [**-Challenge specification**](https://docs.google.com/document/d/13VCtoyto9X1PZ74nPI4ZEDdb8hF8LAlcmLH1ZTHxKxE/edit#)
 
