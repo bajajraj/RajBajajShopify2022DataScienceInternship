@@ -1,4 +1,5 @@
-# Shopify Data Science 2022 Internship Challenge
+# ![image](https://user-images.githubusercontent.com/91573783/149607692-2d8c9c19-6055-4838-a37c-78d8759f0159.png)
+ Shopify Data Science 2022 Internship Challenge
 
 [**-Challenge specification**](https://docs.google.com/document/d/13VCtoyto9X1PZ74nPI4ZEDdb8hF8LAlcmLH1ZTHxKxE/edit#)
 
@@ -11,4 +12,3 @@
 **Question 2**
 - For this question SQL queries were written to find the answer to the given question. [Follow this link to access the data set required for the challenge.](https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL)
 - Please refer to the 2022 Shopify Data Science Internship Challenge.pdf for queries and answers to the question.
-- For question c, the SQL Queries and Answer can be found using this [link](https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL)
